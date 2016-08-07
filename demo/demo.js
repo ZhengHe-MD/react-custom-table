@@ -227,4 +227,3 @@ class TableDemo extends Component {
 }
 
 ReactDOM.render(<TableDemo />, document.getElementById("demo"));
-
